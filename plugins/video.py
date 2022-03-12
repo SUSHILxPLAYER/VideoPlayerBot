@@ -212,7 +212,7 @@ async def stream(client, m: Message):
             await msg.delete()
             await m.reply_photo(
                photo=thumb,
-               caption=f"▶️ **Started [Video Streaming](https://t.me/cpan8xofficial) In {m.chat.title} !**",
+               caption=f"▶️ **Started [Video Streaming](https://t.me/clan8xofficial) In {m.chat.title} !**",
                reply_markup=InlineKeyboardMarkup(
                [
                    [
