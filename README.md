@@ -9,10 +9,10 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/AsmSafone/VideoPlayerBot?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AsmSafone/VideoPlayerBot)
 ![GitHub](https://img.shields.io/github/license/AsmSafone/VideoPlayerBot)
-[![Bot Updates](https://img.shields.io/badge/VideoPlayerBot-Updates%20Channel-green)](https://t.me/AsmSafone)
-[![Bot Support](https://img.shields.io/badge/VideoPlayerBot-Support%20Group-blue)](https://t.me/safothebot)
+[![Bot Updates](https://img.shields.io/badge/VideoPlayerBot-Updates%20Channel-green)](https://t.me/clan8xofficial)
+[![Bot Support](https://img.shields.io/badge/VideoPlayerBot-Support%20Group-blue)](https://t.me/clan8xofficial)
 
-An Telegram Bot By [@AsmSafone](https://t.me/AsmSafone) To Stream Videos in Telegram Voice Chat.
+An Telegram Bot By [@AsmSafone](https://t.me/clan8xofficial) To Stream Videos in Telegram Voice Chat.
 
 ## Main Features
 
@@ -46,7 +46,7 @@ endstream - Stop Streaming & Left VC
 1. `API_ID` : User Account Telegram API_ID, get it from my.telegram.org
 2. `API_HASH` : User Account Telegram API_HASH, get it from my.telegram.org
 3. `BOT_TOKEN` : Your Telegram Bot Token, get it from @Botfather XD
-4. `SESSION_STRING` : Pyrogram Session String of User Account, get it from [@genStr robot](http://t.me/genStr_robot) or [![genStr](https://img.shields.io/badge/repl.it-genStr-yellowgreen)](https://repl.it/@AsmSafone/genStr)
+4. `SESSION_STRING` : Pyrogram Session String of User Account, get it from [@genStr robot](http://t.me/lgcy_string_robot) or [![genStr](https://img.shields.io/badge/repl.it-genStr-yellowgreen)](https://repl.it/@AsmSafone/genStr)
 5. `ASSISTANT_NAME` : Your Video Player's assistant username without @.
 6. `SUPPORT_GROUP` : Support Group username without @ [Leave this if you don't have one]
 7. `UPDATES_CHANNEL` : Updates Channel username without @ [Leave this if you don't have one]
@@ -62,7 +62,7 @@ endstream - Stop Streaming & Left VC
 
 ## Self Host
 ```sh
-$ git clone -b main https://github.com/AsmSafone/VideoPlayerBot
+$ git clone -b main https://github.com/SUSHILxPLYER/VideoPlayerBot
 $ cd VideoPlayerBot
 $ sudo apt-get install python3-pip ffmpeg
 $ pip3 install -U pip
@@ -74,7 +74,7 @@ $ python3 main.py
 ## License
 ```sh
 VideoPlayerBot, Telegram Video Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
+Copyright (c) 2021  Navya Safone <https://github.com/SUSHILxPLAYER>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -92,7 +92,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 ## Credits
 
-- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/VideoPlayerBot) 😬
-- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
-- [MarshalX](https://github.com/MarshalX) for [pytgcalls](https://github.com/MarshalX/tgcalls) ❤️
-- And Thanks To All [Contributors](https://github.com/AsmSafone/VideoPlayerBot/graphs/contributors)! ❤️
+- [Me](https://github.com/SUSHILxPLYER) for [Noting](https://github.com/SUSHILxPLYER/VideoPlayerBot) 😬
+- [Alex](https://github.com/lgcyalex) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
+- [Navya](https://github.com/SUSHILxSPAM) for [pytgcalls](https://github.com/SUSHILxPLAYER/NAVYA-SHUBHI) ❤️
+- And Thanks To All [Contributors](https://github.com/SUSHILxPLAYER/VideoPlayerBot/graphs/contributors)! ❤️
